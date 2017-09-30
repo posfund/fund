@@ -1,0 +1,9 @@
+Building FUND
+
+See doc/readme-qt.rst for instructions on building FUND QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FUND.
+
+See doc/build-*.txt for instructions on building fundd,
+the intended-for-services, no-graphical-interface, reference
+implementation of FUND.
